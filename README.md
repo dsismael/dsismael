@@ -23,9 +23,8 @@
 <p align="center">
 
 - **Languages**:
-<br>
 
-   ![Kotlin](https://img.shields.io/badge/Kotlin%20-%23E34F26.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+   ![Kotlin](https://img.shields.io/badge/Kotlin%20-%231572B6.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 <br>   
     
