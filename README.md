@@ -25,6 +25,7 @@
 - **Languages**:
 
    ![Kotlin](https://img.shields.io/badge/Kotlin%20-%231572B6.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+   ![Java](https://img.shields.io/badge/Java%20-%F48748.svg?style=for-the-badge&logo=java&logoColor=white)
 
 <br>   
     
