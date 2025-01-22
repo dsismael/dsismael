@@ -25,6 +25,7 @@
 - **Languages**:
 <br>
     <a href='https://kotlinlang.org/' target="_blank"><img alt='Kotlin' src='https://img.shields.io/badge/Kotlin-100000?style=for-the-badge&logo=Kotlin&logoColor=5EA7E4&labelColor=000000&color=black'/></a>
+   ![Static Badge](https://img.shields.io/badge/Kotlin-blue?style=for-the-badge&logo=Kotlin&logoColor=%23FFFFFF&logoSize=auto&labelColor=%235EA7E4&color=%235EA7E4&link=https%3A%2F%2Fkotlinlang.org%2F)
 
 <br>   
     
